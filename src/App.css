@@ -1,0 +1,13 @@
+.controls{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+    
+  }
+  
+  body{
+    padding: 5vh 3vw;
+  }
+ 
+ 
